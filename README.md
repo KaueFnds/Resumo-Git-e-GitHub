@@ -1,4 +1,4 @@
-# DIO | Resumos Git e GitHub
+# DIO | Resumo Git e GitHub
 
 Repositorio para anotações referente ao curso de versionamento de codigo com Git e GitHub da [Dio e Santander](https://web.dio.me/track/santander-2024-backend-com-java)
 
